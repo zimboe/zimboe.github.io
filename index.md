@@ -10,3 +10,5 @@ Exocortex exorcisms visible to others. Witness my mind-balloons as they are infl
 # Random musings and partially documented deeper thoughts
 
 [Games](games) that make me happy
+
+There should be some navigation to the [blog](blog) and [about](about) pages, won't you thing?
