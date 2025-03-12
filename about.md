@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Sharing of ideas"
+---
+
 # What to expect
 
 Random musings and partially documented deeper thoughts
