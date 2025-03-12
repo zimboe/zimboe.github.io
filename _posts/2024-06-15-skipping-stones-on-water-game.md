@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "stone skipping game"
+categories: games water movement
 ---
 
 # skipping stones on water game
