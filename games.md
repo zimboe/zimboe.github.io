@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sharing of ideas"
+title: "Games"
 ---
 
 # Games are what you set a playful mind to

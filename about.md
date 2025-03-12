@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sharing of ideas"
+title: "About"
 ---
 
 # What to expect
