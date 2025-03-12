@@ -3,10 +3,6 @@ layout: post
 title:  "stone skipping game"
 ---
 
-# skipping stones on water game
-
-2024-Jun-15
-
 This is a game I like to play with the kids when we are vacationing by the sea.
 
 The main idea is this: You starting score is one. Find a stone you deem likely to skip well.
